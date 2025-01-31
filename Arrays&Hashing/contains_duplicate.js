@@ -19,7 +19,7 @@ var containsDuplicate = function(nums) {
 containsDuplicate([1,2,3,4,5,6,7,8,7,10]) 
 
 //Get the duplicate values
-//Comment the code above (lines 8 to 16) to run the code below
+//Comment the code above (lines 9 to 19) to run the code below
 var containsDuplicate = function(nums) {
     let uniqueValues = new Set()
     duplicates=[]
