@@ -13,7 +13,7 @@ var isAnagram = function(s, t) {
     console.log(sCharacters)
     
     //Strings must have more than one character && less than 4000 characters(Constraint 1)
-    if(s.length<=1 && t.length<=1 && s.length>(5*Math.pow(10,4)) && t.length>(5*Math.pow(10,4))){
+    if(s.length<=1 || t.length<=1 || s.length>(5*Math.pow(10,4)) || t.length>(5*Math.pow(10,4))){
         return(console.log(0))
     }
 
@@ -66,6 +66,5 @@ var isAnagram = function(s, t) {
     return (console.log(true))
 };
 
-
-isAnagram("car", "rac")
+isAnagram("", "")
 isAnagram("rat", "car")
