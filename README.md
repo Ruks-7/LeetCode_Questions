@@ -12,7 +12,7 @@ A collection of solutions to LeetCode coding problems implemented in JavaScript.
         - Using nested loops
         - Finding all duplicates
 
-    2. **Valid Anagram**
+2. **Valid Anagram**
     - Solution in [Arrays&Hashing/valid_anagram.js](Arrays&Hashing/valid_anagram.js)
     - Includes multiple approaches:
         - With constraint checking
