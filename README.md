@@ -2,7 +2,7 @@
 
 A collection of solutions to LeetCode coding problems implemented in JavaScript. I am using NeetCode to track my progress and solve problems.
 
-<span style="align: center">## Problems Solved</span>
+<h2 align="center">Problems Solved</h2>
 
 ### Arrays & Hashing
 1. **Contains Duplicate**
