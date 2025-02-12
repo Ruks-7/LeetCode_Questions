@@ -2,7 +2,7 @@
 
 A collection of solutions to LeetCode coding problems implemented in JavaScript. I am using NeetCode to track my progress and solve problems.
 
-## Problems Solved
+<span style="align: center">## Problems Solved</span>
 
 ### Arrays & Hashing
 1. **Contains Duplicate**
@@ -18,3 +18,9 @@ A collection of solutions to LeetCode coding problems implemented in JavaScript.
         - With constraint checking
         - Using Array.from()
         - Using split() method
+
+3. **Two Sum**
+    - Solution in [Arrays&Hashing/two_sum.js](Arrays&Hashing/two_sum.js)
+    - Includes multiple approaches:
+        - Using nested loops
+        - Using Map data structure
