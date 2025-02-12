@@ -19,6 +19,7 @@ var twoSum = function(nums, target) {
 };
 
 //Using a map
+//Time complexity - 0(N)
 var twoSum = function(nums, target) {
     const map = new Map();
     
