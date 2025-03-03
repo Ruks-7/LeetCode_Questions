@@ -23,7 +23,7 @@ var groupAnagrams = function(strs) {
     return Array.from(charMap.values());
 };
 
-//Solution: using an Object
+//Solution 2: using an Object
 var groupAnagrams = function(strs) {
     // Use object instead of Map for easier grouping
     let result = {};
