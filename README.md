@@ -24,3 +24,9 @@ A collection of solutions to LeetCode coding problems implemented in JavaScript.
     - Includes multiple approaches:
         - Using nested loops
         - Using Map data structure
+
+4. **Group Anagrams**
+    - Solution in [Arrays&Hashing/group_anagrams.js](Arrays&Hashing/group_anagrams.js)
+    - Includes multiple approaches:
+        - Using Map data structure
+        - Using Object data structure   
